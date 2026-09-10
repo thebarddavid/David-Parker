@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1600 1000">
+<rect width="1600" height="1000" fill="#11101a"/>
+<rect x="45" y="45" width="1510" height="910" rx="18" fill="#21192b" stroke="#d9a441" stroke-width="6"/>
+<!-- panel 1 --> <rect x="75" y="75" width="700" height="390" fill="#171522" stroke="#9f8aad" stroke-width="4"/>
+<text x="100" y="125" fill="#f3d77b" font-family="Arial" font-size="25">PANEL 1 — THE DOOR</text>
+<rect x="350" y="160" width="220" height="250" fill="#0c0b11" stroke="#d9a441" stroke-width="5"/>
+<circle cx="545" cy="285" r="9" fill="#d9a441"/>
+<!-- Davina silhouette --> <path d="M220 390 L250 285 L275 230 L265 175 L300 205 L330 155 L360 205 L395 175 L390 240 L425 285 L450 390Z" fill="#17131d" stroke="#e74b6a" stroke-width="5"/>
+<path d="M290 210 L270 125 L325 185Z M360 185 L420 125 L390 220Z" fill="#17131d" stroke="#d9a441" stroke-width="5"/>
+<text x="105" y="430" fill="#eee7ef" font-family="Georgia" font-size="25">“Okay, Davina. Don’t panic.”</text>
+<!-- panel 2 --> <rect x="805" y="75" width="700" height="390" fill="#191623" stroke="#9f8aad" stroke-width="4"/>
+<text x="830" y="125" fill="#f3d77b" font-family="Arial" font-size="25">PANEL 2 — FIRST LOOK</text>
+<path d="M900 430 L930 250 L1000 175 L1060 235 L1115 175 L1190 250 L1220 430Z" fill="#0f0e15" stroke="#d9a441" stroke-width="5"/>
+<text x="835" y="430" fill="#eee7ef" font-family="Georgia" font-size="24">“Right. Two years to figure out my entire life.”</text>
+<!-- panel 3 --> <rect x="75" y="505" width="700" height="420" fill="#171522" stroke="#9f8aad" stroke-width="4"/>
+<text x="100" y="555" fill="#f3d77b" font-family="Arial" font-size="25">PANEL 3 — CLASSROOM</text>
+<rect x="125" y="595" width="600" height="285" fill="#30283b"/>
+<path d="M180 810 q40 -80 80 0 M330 810 q40 -80 80 0 M480 810 q40 -80 80 0 M600 810 q40 -80 80 0" fill="none" stroke="#c7b6cf" stroke-width="8"/>
+<text x="110" y="910" fill="#eee7ef" font-family="Georgia" font-size="24">A room full of strangers. A stage somewhere beyond it.</text>
+<!-- panel 4 --> <rect x="805" y="505" width="700" height="420" fill="#191623" stroke="#9f8aad" stroke-width="4"/>
+<text x="830" y="555" fill="#f3d77b" font-family="Arial" font-size="25">PANEL 4 — BEGIN</text>
+<path d="M960 850 L1000 680 L1060 610 L1120 680 L1160 850Z" fill="#121119" stroke="#e74b6a" stroke-width="5"/>
+<path d="M1040 650 L1005 565 L1060 620Z M1090 620 L1145 565 L1110 665Z" fill="#121119" stroke="#d9a441" stroke-width="5"/>
+<text x="835" y="900" fill="#eee7ef" font-family="Georgia" font-size="27">“I’m in.”</text>
+<text x="800" y="970" fill="#bfaec8" font-family="Arial" font-size="20">DAVINA — CHAPTER 1 STORYBOARD • ART DIRECTION PLACEHOLDER</text>
+</svg>
