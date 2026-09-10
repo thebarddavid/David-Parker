@@ -1,0 +1,53 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 1600">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#090714"/><stop offset="0.55" stop-color="#24102d"/><stop offset="1" stop-color="#080b18"/></linearGradient>
+    <linearGradient id="hair" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#ff4b5c"/><stop offset="1" stop-color="#a9004f"/></linearGradient>
+    <filter id="glow"><feGaussianBlur stdDeviation="12" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
+  </defs>
+  <rect width="1200" height="1600" fill="url(#bg)"/>
+  <circle cx="940" cy="260" r="190" fill="#d91e74" opacity=".16" filter="url(#glow)"/>
+  <circle cx="230" cy="1120" r="260" fill="#6b3cff" opacity=".12" filter="url(#glow)"/>
+  <path d="M80 1330 C260 1190 390 1270 540 1180 S900 1080 1120 1240" fill="none" stroke="#d9a441" stroke-width="5" opacity=".65"/>
+  <!-- silhouette -->
+  <path d="M600 1450 C535 1330 505 1190 530 1030 C545 930 570 850 600 760 C630 850 655 930 670 1030 C695 1190 665 1330 600 1450Z" fill="#11101b" stroke="#d9a441" stroke-width="4"/>
+  <!-- hair -->
+  <path d="M430 500 C385 300 490 150 650 190 C820 235 835 430 735 700 C690 820 605 850 500 760 C445 715 405 620 430 500Z" fill="url(#hair)" stroke="#5b1239" stroke-width="8"/>
+  <!-- ears -->
+  <path d="M455 330 L410 110 L565 245Z" fill="#17131f" stroke="#d9a441" stroke-width="7"/>
+  <path d="M690 245 L840 105 L795 350Z" fill="#17131f" stroke="#d9a441" stroke-width="7"/>
+  <path d="M445 290 L430 160 L525 245Z" fill="#b92b57" opacity=".55"/>
+  <path d="M715 245 L810 160 L790 290Z" fill="#b92b57" opacity=".55"/>
+  <!-- horns -->
+  <path d="M525 260 C485 175 505 85 575 55 C560 135 590 185 610 235Z" fill="#d7d0d5" stroke="#6e6674" stroke-width="6"/>
+  <path d="M675 235 C700 180 720 125 705 55 C775 90 790 180 745 270Z" fill="#d7d0d5" stroke="#6e6674" stroke-width="6"/>
+  <!-- face -->
+  <ellipse cx="630" cy="490" rx="185" ry="220" fill="#e7c4b9" stroke="#221823" stroke-width="8"/>
+  <path d="M520 450 Q570 420 610 455" fill="none" stroke="#17121d" stroke-width="13"/>
+  <path d="M650 455 Q700 420 750 450" fill="none" stroke="#17121d" stroke-width="13"/>
+  <ellipse cx="570" cy="490" rx="20" ry="30" fill="#6b3cff"/>
+  <ellipse cx="690" cy="490" rx="20" ry="30" fill="#6b3cff"/>
+  <path d="M595 585 Q630 610 665 585" fill="none" stroke="#11101b" stroke-width="12"/>
+  <path d="M605 610 Q630 628 655 610" fill="none" stroke="#a20d48" stroke-width="15"/>
+  <!-- top -->
+  <path d="M510 700 Q630 650 750 700 L820 1050 L440 1050Z" fill="#0d0c14" stroke="#d9a441" stroke-width="7"/>
+  <path d="M515 720 L600 800 L675 720" fill="none" stroke="#d9a441" stroke-width="6"/>
+  <!-- tattoo motifs -->
+  <g fill="none" stroke="#b7a8c5" stroke-width="5" opacity=".8">
+    <path d="M500 820 q40 -70 80 0 q-40 70 -80 0Z"/><path d="M680 820 q40 -70 80 0 q-40 70 -80 0Z"/>
+    <path d="M555 900 q75 -80 150 0 q-75 85 -150 0Z"/>
+  </g>
+  <!-- shorts and legs -->
+  <path d="M440 1040 L600 1030 L760 1040 L735 1190 L610 1170 L480 1190Z" fill="#12101a" stroke="#d9a441" stroke-width="7"/>
+  <path d="M505 1180 L585 1175 L540 1430 L455 1430Z" fill="#171521" stroke="#8e829b" stroke-width="6"/>
+  <path d="M625 1175 L705 1180 L775 1430 L690 1430Z" fill="#171521" stroke="#8e829b" stroke-width="6"/>
+  <path d="M510 1240 L545 1210 M500 1290 L535 1260 M685 1260 L720 1290 M700 1320 L735 1350" stroke="#d9d9e0" stroke-width="7"/>
+  <!-- boots -->
+  <path d="M440 1410 L555 1410 L545 1500 L385 1500 Q390 1450 440 1410Z" fill="#09090e" stroke="#d9a441" stroke-width="7"/>
+  <path d="M685 1410 L775 1410 L840 1500 L675 1500Z" fill="#09090e" stroke="#d9a441" stroke-width="7"/>
+  <!-- tail -->
+  <path d="M760 1050 C1030 980 1020 720 850 760 C1010 820 930 930 770 900" fill="none" stroke="#11101b" stroke-width="55"/>
+  <path d="M760 1050 C1030 980 1020 720 850 760 C1010 820 930 930 770 900" fill="none" stroke="#d9a441" stroke-width="5" stroke-dasharray="12 20"/>
+  <text x="600" y="90" text-anchor="middle" fill="#f1d27a" font-family="Georgia,serif" font-size="62" letter-spacing="10">DAVINA</text>
+  <text x="600" y="1540" text-anchor="middle" fill="#f4e8ef" font-family="Arial,sans-serif" font-size="30" letter-spacing="5">THE COMIC</text>
+  <text x="600" y="1580" text-anchor="middle" fill="#bfaec8" font-family="Arial,sans-serif" font-size="20">FIRST DAY • ARTS, PERFORMANCE &amp; DRAMA</text>
+</svg>
